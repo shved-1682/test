@@ -7,7 +7,7 @@ def hello_world():
 
 
 def bye_world():
-    print("Goodbye, World!:)"42)
+    print("Goodbye, World!")
 
 
 hello_world()
