@@ -3,11 +3,11 @@ def print_hello():
 
 
 def hello_world():
-    print("Hello, World!")
+    print("Hello, World!!!")
 
 
 def bye_world():
-    print("Goodbye, World!")
+    print("Goodbye, World!!!")
 
 
 def f_12345():
