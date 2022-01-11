@@ -19,9 +19,6 @@ def f_12345():
 
     def print_three():
         print("3")
-        
-    def print_fore():
-        print("4")
 
     print_one()
     print_two()
